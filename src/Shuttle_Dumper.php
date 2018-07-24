@@ -512,4 +512,4 @@ class Shuttle_DBConn_Mysqli extends Shuttle_DBConn {
 	}
 }
 
-class Shuttle_Exception extends Exception {};
+class Shuttle_Exception extends \Exception {};
