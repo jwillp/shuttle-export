@@ -1,0 +1,12 @@
+{
+    "name": "jwillp/shuttle-export",
+    "type": "library",
+    "license": "GNU-PLv2",
+    "require": {},
+
+    "autoload": {
+        "psr-4": {
+            "ShuttleExport\\": ["src/"]
+        }
+    }
+}
